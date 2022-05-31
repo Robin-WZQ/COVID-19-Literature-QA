@@ -1,6 +1,4 @@
-### **Text Mining by Word Representation**
-
-
+### **Text Mining by Clustering**
 
 #### 文件说明
 
