@@ -18,7 +18,7 @@ anwser.txt # 问题的答案 （Top200）
 
 requirements.txt # 配置文件
 
-*以下文件都放在网盘了: https://pan.baidu.com/s/1LLQtVqnGtKfMKIoaqKyr1Q ,提取码: dlmd *
+以下文件都放在网盘了: https://pan.baidu.com/s/1LLQtVqnGtKfMKIoaqKyr1Q ,提取码: dlmd
 
 id2paper.json # 文献题目转ID
 
