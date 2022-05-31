@@ -10,7 +10,7 @@
   - 使用局部哈希算法+biobert词嵌入
 - [基于聚类](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Clustering)
   - 使用ego-splitting聚类
-- 基于主题建模
+- [基于主题建模]()
   - 使用LDA模型(文件太大这里放不下，放到[网盘了](). 提取码:)
 
 ## Dataset - 数据集
@@ -45,5 +45,20 @@
 
 10. there has not been evidence suggesting the link between covid - 19 and asthma exacerbation
 
-## licence
-MIT
+## Reference - 参考文件
+
+比较好的资源：
+
+https://www.kaggle.com/code/maksimeren/covid-19-literature-clustering
+
+https://www.kaggle.com/code/dgunning/cord-research-engine-search-and-similarity
+
+https://www.kaggle.com/code/mlconsult/summary-page-covid-19-risk-factors
+
+https://www.kaggle.com/code/nadergo/risk-factors-question-answering-biobert
+
+https://www.kaggle.com/code/williamkaiser/using-citations-and-text-content-to-cluster
+
+https://www.kaggle.com/code/jswxhd/risk-factor-mining-cord-19-articles-2021
+
+https://www.kaggle.com/code/davidmezzetti/cord-19-analysis-with-sentence-embeddings/notebook
