@@ -1,6 +1,6 @@
 ### **Text Mining by Word Representation**
 
-王中琦 1120190892
+
 
 #### 文件说明
 
@@ -17,6 +17,8 @@ anwser.txt # 问题的答案 （Top200）
 1120190892.ipynb # 代码+报告
 
 requirements.txt # 配置文件
+
+*以下文件都放在网盘了: https://pan.baidu.com/s/1LLQtVqnGtKfMKIoaqKyr1Q ,提取码: dlmd *
 
 id2paper.json # 文献题目转ID
 
