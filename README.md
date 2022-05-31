@@ -3,9 +3,9 @@
 
 > 仅学习使用
 
-## content - 内容
+## Content - 内容
 
-分为3个方向，分别是：
+尝试使用3个方向解决这个问题，分别是：
 - [基于文本表示](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Word_Representation)
   - 使用局部哈希算法+biobert词嵌入
 - [基于聚类](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Clustering)
