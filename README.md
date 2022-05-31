@@ -6,8 +6,8 @@
 ## content - 内容
 
 分为3个方向，分别是：
-- 基于文本表示
-- 基于聚类
+- [基于文本表示](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Word_Representation)
+- [基于聚类](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Clustering)
 - 基于主题建模
 
 ## Example - 例子
