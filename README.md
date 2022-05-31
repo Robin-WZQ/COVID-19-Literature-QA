@@ -7,8 +7,11 @@
 
 分为3个方向，分别是：
 - [基于文本表示](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Word_Representation)
+  - 使用局部哈希算法+biobert词嵌入
 - [基于聚类](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Clustering)
+  - 使用ego-splitting聚类
 - 基于主题建模
+  - 使用LDA模型
 
 ## Example - 例子
 
