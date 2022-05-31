@@ -1,5 +1,7 @@
 ### **Text Mining by Word Representation**
 
+> ipynb中图片显示不出来的话，将本文件夹下载到本地即可看到
+
 #### 文件说明
 
 | pic # ipynb里面的图片
