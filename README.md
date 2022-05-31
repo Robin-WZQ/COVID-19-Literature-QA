@@ -12,9 +12,9 @@
 
 ## Example - 例子
 
-Question: What do we know about risk factors?
+**Question**: What do we know about risk factors?
 
-Answer(Top 10):
+**Answer(Top 10)**:
 
 1. an exposure history , greater age , abnormal radiologic and laboratory findings , and the development of complications
 
