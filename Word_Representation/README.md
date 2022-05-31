@@ -1,7 +1,5 @@
 ### **Text Mining by Word Representation**
 
-王中琦 1120190892
-
 #### 文件说明
 
 | pic # ipynb里面的图片
