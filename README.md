@@ -13,6 +13,12 @@
 - 基于主题建模
   - 使用LDA模型
 
+## Dataset - 数据集
+
+数据集来源：https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge .
+
+本项目使用2020-2022年发表的文献，不过要改的话代码改一行就行了。
+
 ## Example - 例子
 
 **Question**: What do we know about risk factors?
