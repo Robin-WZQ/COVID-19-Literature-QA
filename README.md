@@ -10,8 +10,8 @@
   - 使用局部哈希算法+biobert词嵌入
 - [基于聚类](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Clustering)
   - 使用ego-splitting聚类
-- [基于主题建模]()
-  - 使用LDA模型(文件太大这里放不下，放到[网盘了](). 提取码:)
+- [基于主题建模](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/LDA)
+  - 使用LDA模型
 
 ## Dataset - 数据集
 
