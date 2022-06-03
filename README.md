@@ -45,9 +45,7 @@
 
 10. there has not been evidence suggesting the link between covid - 19 and asthma exacerbation
 
-## Reference - 参考文件
-
-比较好的资源：
+## Reference - 参考
 
 https://www.kaggle.com/code/maksimeren/covid-19-literature-clustering
 
