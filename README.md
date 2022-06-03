@@ -5,14 +5,12 @@
 
 ## Content - 内容
 
-尝试使用3个方向解决这个问题，分别是：
+尝试使用2个方向解决这个问题，分别是：
 - [基于文本表示](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Word_Representation)
   - 使用局部哈希算法+biobert词嵌入
 - [基于聚类](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Clustering)
   - 使用ego-splitting聚类
-- [基于主题建模](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/LDA)
-  - 使用LDA模型
-
+ 
 ## Dataset - 数据集
 
 数据集来源：https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge .
@@ -57,6 +55,6 @@ https://www.kaggle.com/code/nadergo/risk-factors-question-answering-biobert
 
 https://www.kaggle.com/code/williamkaiser/using-citations-and-text-content-to-cluster
 
-https://www.kaggle.com/code/jswxhd/risk-factor-mining-cord-19-articles-2021 （LDA参考的这篇）
+<!-- https://www.kaggle.com/code/jswxhd/risk-factor-mining-cord-19-articles-2021 （LDA参考的这篇） -->
 
 https://www.kaggle.com/code/davidmezzetti/cord-19-analysis-with-sentence-embeddings/notebook
