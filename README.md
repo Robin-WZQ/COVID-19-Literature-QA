@@ -57,6 +57,6 @@ https://www.kaggle.com/code/nadergo/risk-factors-question-answering-biobert
 
 https://www.kaggle.com/code/williamkaiser/using-citations-and-text-content-to-cluster
 
-https://www.kaggle.com/code/jswxhd/risk-factor-mining-cord-19-articles-2021
+https://www.kaggle.com/code/jswxhd/risk-factor-mining-cord-19-articles-2021 （LDA参考的这篇）
 
 https://www.kaggle.com/code/davidmezzetti/cord-19-analysis-with-sentence-embeddings/notebook
