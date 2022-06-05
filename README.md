@@ -1,7 +1,18 @@
 # COVID-19-Literature-Q&A
-针对百万级新冠肺炎文献的检索与问答系统
+## 背景 - Background
 
-> 仅学习使用
+> 为了应对 COVID-19 大流行，美国开源了COVID-19 开放研究数据集 (CORD-19)，它共包含超过 1,000,000 篇学术文章，其中包括超过 350,000 篇关于 COVID-19、SARS-CoV-2 和相关冠状病毒的全文。 CORD-19 数据集代表了迄今为止可用于数据挖掘的最广泛的冠状病毒文献集合。这使全球 AI 研究社区有机会应用文本和数据挖掘方法来找到问题的答案，以支持全球正在进行的 COVID-19 响应工作。
+>
+> 数据集的任务部分提供了最初的关键问题的列表。这些关键科学问题来自 NASEM 的 SCIED（国家科学院、工程院和医学院的新兴传染病和 21 世纪健康威胁常设委员会）研究课题和世界卫生组织的 COVID-19 研发蓝图。 其中许多问题都适合文本挖掘，我们鼓励研究人员开发文本挖掘工具来提供对这些问题的见解。 
+
+更多有关该数据集的介绍请参考：[COVID-19 Open Research Dataset Challenge (CORD-19) | Kaggle](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge)
+
+本项目使用2020-2022年发表的文献，不过要改的话代码改一行就行了。
+
+## 环境 - Environment
+
+- python3
+- torch = 1.10.0+cu113
 
 ## Content - 内容
 
@@ -10,12 +21,6 @@
   - 使用局部哈希算法+biobert词嵌入
 - [基于聚类](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Clustering)
   - 使用ego-splitting聚类
- 
-## Dataset - 数据集
-
-数据集来源：https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge .
-
-本项目使用2020-2022年发表的文献，不过要改的话代码改一行就行了。
 
 ## Example - 例子
 
