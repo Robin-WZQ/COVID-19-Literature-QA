@@ -42,6 +42,6 @@ paper_cluster_memberships.json # 聚类结果
 3. 运行
 
 ```
-run 1120190892.ipynb 
+run clustering.ipynb 
 ```
 
