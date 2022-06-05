@@ -14,7 +14,7 @@
 - python3
 - torch = 1.10.0+cu113
 
-## Content - 内容
+## 内容 - Content
 
 尝试使用2个方向解决这个问题，分别是：
 - [基于文本表示](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Word_Representation)
@@ -22,7 +22,7 @@
 - [基于聚类](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Clustering)
   - 使用ego-splitting聚类
 
-## Example - 例子
+## 例子 - Example
 
 **Question**: What do we know about risk factors?
 
@@ -48,7 +48,7 @@
 
 10. there has not been evidence suggesting the link between covid - 19 and asthma exacerbation
 
-## Reference - 参考
+## 参考 - Reference 
 
 https://www.kaggle.com/code/maksimeren/covid-19-literature-clustering
 
