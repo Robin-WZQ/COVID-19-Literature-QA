@@ -21,6 +21,8 @@
   - 使用局部哈希算法+biobert词嵌入
 - [基于聚类](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/Clustering)
   - 使用ego-splitting聚类
+- [基于LDA](https://github.com/Robin-WZQ/COVID-19-Literature-QA/tree/main/LDA)
+  - 即LDA主题建模
 
 ## 例子 - Example
 
