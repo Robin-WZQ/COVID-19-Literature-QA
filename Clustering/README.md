@@ -17,6 +17,8 @@ pip install -r requirements.txt
 
 我放到百度网盘了, https://pan.baidu.com/s/1LLQtVqnGtKfMKIoaqKyr1Q ,提取码: dlmd
 
+数据集的话（metadata.csv）要在kaggle官网上下载
+
 保证最终的目录如下所示：
 
 ```
